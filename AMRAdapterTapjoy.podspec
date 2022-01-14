@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterTapjoy'
-  s.version          = '12.8.1.1'
+  s.version          = '12.9.0.0'
   s.license          = { :type => 'Copyrght', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.vendored_libraries = 'AMRAdapterTapjoy/Libs/libAMRAdapterTapjoy.a'
   s.dependency 'AMRSDK', '~> 1.5.0'
-  s.dependency 'TapjoySDK', '12.8.1'
+  s.dependency 'TapjoySDK', '12.9.0'
 end
