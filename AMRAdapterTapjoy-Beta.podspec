@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'AMRAdapterTapjoy-Beta'
-  s.version          = '12.9.1.0'
+  s.version          = '12.10.0.0'
   s.license          = { :type => 'Copyrght', :text => <<-LICENSE
 														Copyright 2016
 														Admost Mediation Limited.
@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
     'VALID_ARCHS[sdk=iphonesimulator*]' => 'x86_64 arm64'
   }
   s.dependency 'AMRSDK-Beta', '~> 1.5.6'
-  s.dependency 'TapjoySDK', '12.9.1'
+  s.dependency 'TapjoySDK', '12.10.0'
 end
