@@ -3,6 +3,10 @@
 Changelog for AMRAdapterTapjoy. 
 TapjoySDK [changelog](https://dev.tapjoy.com/en/ios-sdk/Changelog)
 
+## [13.3.0.0] - 2023-04-24
+### Updated
+- Offical release for TapjoySDK 13.3.0
+
 ## [13.0.1.0] - 2023-04-24
 ### Updated
 - Offical release for TapjoySDK 13.0.1
